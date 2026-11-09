@@ -16,7 +16,7 @@ This code of conduct applies to ESUNT organization repositories, issues, pull re
 
 Harassment, discrimination, threats, personal attacks, intimidation, deliberate disruption, spam, and publication of another person's private information without permission are not acceptable.
 
-Do not post confidential project materials or sensitive security vulnerabilities in public discussions. Report security concerns using our [Security Policy](SECURITY.md).
+Do not post confidential project materials or sensitive security vulnerabilities in public discussions. Report security concerns using our [Security Policy](https://github.com/ESUNT/.github/blob/main/SECURITY.md).
 
 ## Reporting a concern
 
