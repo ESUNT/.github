@@ -34,7 +34,7 @@ If you are unsure whether information is intended for public disclosure, contact
 
 ## Security reports
 
-Do not disclose suspected vulnerabilities in public issues. Follow our [Security Policy](SECURITY.md).
+Do not disclose suspected vulnerabilities in public issues. Follow our [Security Policy](https://github.com/ESUNT/.github/blob/main/SECURITY.md).
 
 ## Contact
 
